@@ -1,2 +1,24 @@
-# BLogs
-Its a business app for an individual, startup owners and large-scale organizations, where one can add business transactions, view analytics and generate einvoices, ewaybills and much more.
+# web
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,0 +1,16 @@
+to push:
+ - git add .
+ - git commit -m "msg"
+ - git push
+
+check status:
+ - git status
+
+create branch: (DO CHECK THE ACTIVE BRANCH, PREFER SWITCHING TO MAIN BEFORE CREATING)
+ git branch new_branch_name
+
+to view all branches and active branch 
+ git branch
+
+to checkout branch
+ git checkout brnach_name
